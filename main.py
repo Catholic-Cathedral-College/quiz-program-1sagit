@@ -22,4 +22,4 @@ while answer != "a" and answer != "b": #if the answer is wrong, it provides this
 if answer == "a": #if you choose this choice you get this specific scenario
     print(scenarios.ans.get("1a"))
 elif answer == "b":
-    print(scenarios.scen.get("1b"))
+    print(scenarios.x.get("bx"))

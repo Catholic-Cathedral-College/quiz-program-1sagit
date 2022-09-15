@@ -1,17 +1,16 @@
 scen = {
-  1: "You're in class doing your work in the back row when all of a sudden a zombie crashes in and jumps on your teacher, both falling behind the table.\n People panic some run towards your teacher but don't know how to help while others gather in groups and start talking, some pull out their phones and start recording. The room is filled with sounds of struggle. Do you help your teacher and restore peace in the class? \n a. yes \n b. no" ,
+  1: "You're in class doing your work in the back row when all of a sudden a zombie crashes in and jumps on your teacher, both falling behind the table.\n People panic some run towards your teacher but don't know how to help while others gather in groups and start talking, some pull out their phones and start recording. The room is filled with sounds of struggle. Do you help your teacher and restore peace in the class? \n a. no \n b. yes" ,
   2: "asdsahdsaj" ,
   3: "wqehuwq"
 }
 
 ans = {
   "1a": "asdsahdsaj",
-  "2a": "3o2hi32",
   "2b": "3o2ihei32"
 }
 
 x = {
-  "bx": "32ohru32r",
+  "bx": "Though this zombie has tackled your 6'2 teacher who's a hulk of a man and that said man is having trouble getting out from it's grip, all common sense leaves your body and your rush towards your teacher, arms stretched out to grab this rabies student and fling it off him.\n\x1B[3m\033[1m YOU DIED \x1B[0m\033[0m\n\x1B[3m\033[1m try again? \x1B[0m\033[0m" ,
   "2ax": "o3h2",
   "2bx": "3h2ohfdi32",
 }
